@@ -1,11 +1,11 @@
 === Posts 2 Posts ===
 
-Contributors: scribu, ciobi, ayecode
+Contributors: scribu, ciobi, ayecode, stiofansisland
 Tags: connections, custom post types, relationships, many-to-many, users  
 Requires at least: 3.9  
 Requires PHP: 5.6
 Tested up to: 5.4
-Stable tag: 1.6.5
+Stable tag: 1.6.6
 
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
